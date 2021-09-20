@@ -71,7 +71,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Daxo-ser/Sophia -.git)
      </div>
 <br>
 <br >
@@ -80,7 +80,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### The Hard Method
+### The Hard Methodo
 ```js
 GET QR
 $ apt update
